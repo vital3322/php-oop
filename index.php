@@ -4,6 +4,7 @@
 <head>
     <title>Vars-classes-properties-objects</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 <p>
