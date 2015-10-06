@@ -30,6 +30,5 @@ echo var_dump($bool)."<br>";
 
 ?>
 
-
 </body>
 </html>
