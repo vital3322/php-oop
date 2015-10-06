@@ -1,3 +1,4 @@
 <?php
-    require_once "vars.php";
+    include 'vars.php';
+	include 'function.php';
 ?>
