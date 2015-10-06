@@ -28,7 +28,6 @@ echo var_dump($string)."<br>";
 echo var_dump($float)."<br>";
 echo var_dump($bool)."<br>";
 
-
 ?>
 
 
